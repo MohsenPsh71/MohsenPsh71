@@ -1,16 +1,14 @@
 My name is Mohsen Pourvand
 ===============================
 
-Developer & Lecturer
+Full-Stack Developer
 -----------------------------
 
 *   🖥️  See my portfolio at [MohsenPourvand.com](https://MohsenPourvand.com)
 *   🚀  I'm currently working on [avasamane.com](https://avasamane.com)
-*   🤝  I'm open to collaborating on interesting projects as a web and android developer
+*   🤝  I'm open to collaborating on interesting projects as a web developer
 
-<a href="https://www.twitter.com/badrnezhad" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/badrnezhad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/badrnezhad" target="_blank" rel="noreferrer"><img
+<a href="https://github.com/MohsenPsh71" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills
