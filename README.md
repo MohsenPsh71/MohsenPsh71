@@ -4,8 +4,6 @@ My name is Mohsen Pourvand
 Full-Stack Developer
 -----------------------------
 
-[*   🖥️  See my portfolio at [MohsenPourvand.com](https://MohsenPourvand.com)
-*   🚀  I'm currently working on [avasamane.com](https://avasamane.com)](url)
 *   🤝  I'm open to collaborating on interesting projects as a web developer
 
 <a href="https://github.com/MohsenPsh71" target="_blank" rel="noreferrer"><img
