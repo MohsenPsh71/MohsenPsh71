@@ -5,7 +5,7 @@
 - 💼 Senior Backend Developer with 5+ years of experience in building scalable, secure, and maintainable web APIs
 - 🧱 Specialized in ASP.NET Core, Microservices, Clean Architecture, SOLID principles, Redis, and distributed systems
 - 🔍 Strong focus on clean code, observability, performance optimization, and testable architecture
-- 🤝 Open to collaborating on interesting backend and full-stack projects
+- 🤝 open to new opportunities and exciting projects
 
 ### 🛠 Skills
 
@@ -40,10 +40,10 @@
   <a href="https://github.com/MohsenPsh71" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mohsen-pourvand-shahidlou/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohsen-pourvand" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mohsenpourvand.com" target="_blank">
+  <a href="https://mohsen-pourvand.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://t.me/Mohsenpsh" target="_blank">
